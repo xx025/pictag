@@ -1,4 +1,5 @@
-<img width="2560" height="1367" alt="image" src="https://github.com/user-attachments/assets/a8f52cda-9d4a-4c70-a705-931cf01b601d" />
+
+<img width="2557" height="1368" alt="image" src="https://github.com/user-attachments/assets/3a62f6e1-71af-4375-ad95-3108233f2f86" />
 
 # PicTag 
 
