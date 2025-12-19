@@ -1,6 +1,9 @@
 
 <img width="2557" height="1368" alt="image" src="https://github.com/user-attachments/assets/3a62f6e1-71af-4375-ad95-3108233f2f86" />
 
+
+中文: [README.zh.md](README.zh.md)
+
 # PicTag 
 
 > Build image classification datasets efficiently.
@@ -38,6 +41,5 @@ This software is protected by a custom license.
 
 See [LICENSE](LICENSE) for full details.
 
----
 
-中文: [README.zh.md](README.zh.md)
+
