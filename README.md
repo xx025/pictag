@@ -27,11 +27,6 @@ PicTag is a specialized, high-performance tool designed for local image classifi
 
 Please visit the [Releases](https://github.com/xx025/pictag/releases) page to download the latest binary for your operating system.
 
-### Run
-
-
-## 📄 License
-See [LICENSE](LICENSE) for full details.
 
 
 
