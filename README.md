@@ -1,5 +1,5 @@
 
-<img width="2557" height="1368" alt="image" src="https://github.com/user-attachments/assets/3a62f6e1-71af-4375-ad95-3108233f2f86" />
+<img src="https://github.com/user-attachments/assets/3a62f6e1-71af-4375-ad95-3108233f2f86" alt="PicTag screenshot" style="max-width:100%;height:auto;" />
 
 
 中文: [README.zh.md](README.zh.md)
