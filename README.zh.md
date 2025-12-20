@@ -22,9 +22,3 @@ PicTag 是一款专为本地图片分类设计的高性能工具。它能帮助�
 
 请访问 [Releases](https://github.com/xx025/pictag/releases) 页面下载适用于您操作系统的最新二进制版本。
 
-### 运行
-
-
-## 📄 许可协议
-
-查看 [LICENSE](LICENSE) 了解完整详情。
