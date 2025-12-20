@@ -18,6 +18,11 @@ PicTag is a specialized, high-performance tool designed for local image classifi
 - 📊 **Statistics**: Built-in tools to visualize tag distribution and dataset balance.
 - 🌓 **Adaptive Theme**: Automatically follows your system's light/dark mode preference.
 - 🛠️ **Cross-Platform**: Available for Windows and Linux.
+- ⏩ **Auto Page Turning**: Automatically switch to the next image after tagging.
+- ⌨️ **Customizable**: Unlimited custom categories and keyboard shortcuts.
+- ⚡ **High Efficiency**: Manual classification takes < 0.5s per image (estimated).
+- 🗄️ **Large Dataset Ready**: Optimized for large datasets (tested with 10k+ images).
+- 🌐 **Bilingual**: Native support for English and Chinese.
 
 ## 📺 Demo
 
