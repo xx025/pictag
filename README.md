@@ -21,6 +21,7 @@ PicTag is a specialized, high-performance tool designed for local image classifi
 
 ## 📺 Demo
 
+【PicTag，超级好用的图片分类软件】 https://www.bilibili.com/video/BV1E9qqBaEyd/?share_source=copy_web&vd_source=02b9c3bad55a6d6dfebfa953558df337
 
 ## 📥 Download
 
@@ -30,15 +31,6 @@ Please visit the [Releases](https://github.com/xx025/pictag/releases) page to do
 
 
 ## 📄 License
-
-**PicTag License**
-
-This software is protected by a custom license.
-
-- ✅ **Personal Use**: Free for personal, non-commercial use.
-- 🚫 **Commercial/Organizational Use**: **STRICTLY PROHIBITED** without a commercial license. Please contact the author for authorization.
-- ⚠️ **Data Collection**: The software may automatically collect user identification information (e.g., device ID, IP) for license verification and security purposes.
-
 See [LICENSE](LICENSE) for full details.
 
 
