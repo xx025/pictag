@@ -1,8 +1,9 @@
+中文: [README.zh.md](README.zh.md)
 
 <img src="https://github.com/user-attachments/assets/3a62f6e1-71af-4375-ad95-3108233f2f86" alt="PicTag screenshot" style="max-width:100%;height:auto;" />
 
 
-中文: [README.zh.md](README.zh.md)
+
 
 # PicTag 
 
@@ -31,6 +32,23 @@ PicTag is a specialized, high-performance tool designed for local image classifi
 ## 📥 Download
 
 Please visit the [Releases](https://github.com/xx025/pictag/releases) page to download the latest binary for your operating system.
+
+## 🚀 Usage
+
+### Windows
+After downloading, simply double-click to run.
+
+### Linux
+1. Download the corresponding binary file (e.g. pictag-x86_64 or pictag-arm64).
+2. Grant execute permission:
+   ```bash
+   chmod +x pictag-xxx
+   ```
+3. Start from the command line:
+   ```bash
+   ./pictag-xxx
+   ```
+   (Replace pictag-xxx with the actual file name)
 
 
 

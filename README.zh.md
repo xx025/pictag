@@ -27,3 +27,20 @@ PicTag 是一款专为本地图片分类设计的高性能工具。它能帮助�
 
 请访问 [Releases](https://github.com/xx025/pictag/releases) 页面下载适用于您操作系统的最新二进制版本。
 
+## 使用方法
+
+### Windows
+下载后，直接双击运行即可。
+
+### Linux
+1. 下载对应的二进制文件（如 pictag-x86_64 或 pictag-arm64）。
+2. 赋予可执行权限：
+   ```bash
+   chmod +x pictag-xxx
+   ```
+3. 通过命令行启动：
+   ```bash
+   ./pictag-xxx
+   ```
+   （请将 pictag-xxx 替换为实际文件名）
+
