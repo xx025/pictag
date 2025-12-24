@@ -39,7 +39,7 @@ Please visit the [Releases](https://github.com/xx025/pictag/releases) page to do
 After downloading, simply double-click to run.
 
 ### Linux
-1. Download the corresponding binary file (e.g. pictag-x86_64 or pictag-arm64).
+1. Download the corresponding binary file 
 2. Grant execute permission:
    ```bash
    chmod +x pictag-xxx
